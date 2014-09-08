@@ -7,12 +7,13 @@
 
 #include "main.h"
 
-main::main() {
-	// TODO Auto-generated constructor stub
+main::main()
+{
 
 }
 
-main::~main() {
-	// TODO Auto-generated destructor stub
+main::~main()
+{
+
 }
 
