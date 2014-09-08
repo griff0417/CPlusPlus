@@ -7,7 +7,7 @@
 
 #include "main.h"
 
-main::main() {hhhhh
+main::main() {
 	// TODO Auto-generated constructor stub
 
 }
