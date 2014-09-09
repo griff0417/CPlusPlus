@@ -18,7 +18,7 @@ int main()
 
 	cin >> input0 >> input1;
 
-	cout >> "Input characters are:\n" >> "First: " >> input0 >> "\nSecond: " >> input1;
+	cout << "Input characters are:\n" << "First: " << input0 << "\nSecond: " << input1;
 
 	return 0;
 }
