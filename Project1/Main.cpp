@@ -9,9 +9,16 @@
 
 using namespace std;
 
+char input0;
+char input1;
+
 int main()
 {
-	cout << "Hello" << endl;
+	cout << "Input two characters, then press enter.";
+
+	cin >> input0 >> input1;
+
+	cout >> "Input characters are:\n" >> "First: " >> input0 >> "\nSecond: " >> input1;
 
 	return 0;
 }
