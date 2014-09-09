@@ -14,7 +14,7 @@ char input1;
 
 int main()
 {
-	cout << "Input two characters, then press enter.";
+	cout << "Input two characters, then press enter.\n";
 
 	cin >> input0 >> input1;
 
