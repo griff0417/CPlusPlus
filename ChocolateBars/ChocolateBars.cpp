@@ -84,7 +84,8 @@ int main()
 	cout << "\n\nTotal Chocolate: ";
 	cout << totalChocolate;
 	cout << "\nAverage Chocolate: ";
-	cout << totalChocolate / count;
-
+	cout << totalChocolate / count ;
+	cout << "\n";
+	system("PAUSE");
 	return 0;
 }
