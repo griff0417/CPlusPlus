@@ -62,6 +62,7 @@ int main()
 		string input;
 		getline(cin, input);
 
+
 		if (input.compare("no") == 0)
 		{
 			keepGoing = false;
