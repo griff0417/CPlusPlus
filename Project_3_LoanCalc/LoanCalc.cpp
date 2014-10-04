@@ -57,8 +57,6 @@ int main()
 		cout << "\n";
 		cout << interestRate;
 
-
-
 		// Take input to see if the program should repeat
 		cout << "\n\nWould you like to repeat the program? (yes/no): ";
 		string input;
