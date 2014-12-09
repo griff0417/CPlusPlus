@@ -1,0 +1,4 @@
+12345,	Michael Main,		Data Structures,		100
+23456,	David Riley,		The Object Java,		75
+34567,	Walter Savitch,		Problem Solving in C++,	120		
+55000,	Walter Savitch,		Absolute C++,			150
